@@ -42,7 +42,7 @@ def send_telegram_message(api_token, chat_id, message):
 
 # API credentials
 api_token = "9f81fb6bd97df0043ca5f6b164efe108-2ac4f4bae763f5f5c2747f55b7e2c0b8"
-account_id = "101-011-25846942-004"
+account_id = "101-011-25846942-008"
 
 environment = "practice"  # Change to "live" for live trading
 

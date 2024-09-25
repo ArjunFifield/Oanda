@@ -1,7 +1,10 @@
 fastapi
 pydantic
 uvicorn
+gunicorn
 oandapyV20
 requests
 six
 telebot
+httpx  # Optional if you prefer async requests over requests
+python-dotenv  # Optional, only if you need to manage environment variables
